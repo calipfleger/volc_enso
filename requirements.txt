@@ -1,0 +1,12 @@
+numpy
+xarray
+scipy
+pandas
+cftime
+matplotlib
+seaborn
+cartopy
+shapely
+statsmodels
+netCDF4
+tqdm
